@@ -23,7 +23,7 @@ print(
 this tool was Coded by Melvin
 Page: https://fb.me/miller742
 facebook: Melvin Cypher
-I <3 Emediong
+I <3 Princez Robert🔐💗
 """
 )
 print("example : enter num without +  but enter the country code like 21696558412")
