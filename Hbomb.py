@@ -4,8 +4,8 @@ from time import sleep
 import urllib.request
 import colorama
 print("IF YOU CRACK the password you deserve it")
-spoof = "gjoertiuhjgrtoighjirthjiorthjotirhijorjthoihrohjthrhjortjhptrhpoirthijorthojpirhtjhiortphtphitr"
-password = input("entre the password:")
+spoof = "Presh_james"
+password = input("enter the password:")
 if spoof == password:
     print("password cracked good work")
 else:
@@ -21,9 +21,9 @@ print(
 \__ \ | | | | \__ \_____| |_) | (_) | | | | | | |_) |  __/ |   
 |___/_| |_| |_|___/     |____/ \___/|_| |_| |_|_.__/ \___|_|
 this tool was Coded by Melvin
-Page: https://fb.me/miller742
-facebook: Melvin Cypher
-I <3 Princez Robert🔐💗
+
+facebook: Elisha David
+With love to PRESH_JAMES
 """
 )
 print("example : enter num without +  but enter the country code like 21696558412")
